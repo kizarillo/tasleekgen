@@ -1,2 +1,0 @@
-# tasleekgen
-Created with CodeSandbox
